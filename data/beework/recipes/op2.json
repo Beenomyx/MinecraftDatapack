@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [{
+        "item": "oak_leaves"
+    }],
+    "result": {
+        "item": "diamond_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "EPC",
+        "DcR",
+        "SGN"
+    ],
+    "key": {
+        "E": {
+            "item": "drowned_spawn_egg"
+        },
+        "P": {
+            "item": "dirt_path"
+        },
+        "C": {
+            "item": "chainmail_boots"
+        },
+        "D": {
+            "item": "dirt"
+        },
+        "c": {
+            "item": "coarse_dirt"
+        },
+        "R": {
+            "item": "rooted_dirt"
+        },
+        "S": {
+            "item": "echo_shard"
+        },
+        "G": {
+            "item": "gold_nugget"
+        },
+        "N": {
+            "item": "netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "netherite_block",
+        "count": 64
+    }
+}
