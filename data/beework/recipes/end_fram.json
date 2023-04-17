@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shapeless",
+    "pattern": [
+        "EOE",
+        "EOE",
+        "SOS"
+    ],
+    "key": {
+        "E": {
+            "item": "ender_pearl"
+        },
+        "O": {
+            "item": "obsidian"
+        },
+        "S": {
+            "item": "end_stone"
+        }
+
+    },
+    "result": {
+        "item": "end_portal_frame",
+        "count": 1
+    }
+}
