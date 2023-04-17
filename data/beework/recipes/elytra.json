@@ -1,0 +1,22 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "F F",
+        "FSF",
+        "FDF"
+    ],
+    "key":{
+        "F":{
+            "item": "feather"
+        },
+        "S":{
+            "item": "stick"
+        },
+        "D":{
+            "item": "diamond"
+        }
+    },
+    "result": {
+        "item": "elytra"
+    }
+}

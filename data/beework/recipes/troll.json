@@ -1,0 +1,32 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "diamond"
+        },
+        {
+            "item": "gold_ingot"
+        },
+        {
+            "item": "iron_ingot"
+        },
+        {
+            "item": "redstone"
+        },
+        {
+            "item": "lapis_lazuli"
+        },
+        [
+            {
+                "item": "coal"
+            },
+            {
+                "item": "charcoal"
+            }
+        ]
+    ],
+    "result": {
+        "item": "netherite_ingot",
+        "count": 10
+    }
+}
