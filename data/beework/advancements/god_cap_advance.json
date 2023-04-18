@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "wha": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "beework:god_cap_recipe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "beework.give_god_cap"
+    }
+}
